@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6A4BD15528106C5A00ACE446 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4BD15328106C5A00ACE446 /* CustomTableViewCell.swift */; };
 		6A509C642814008300D202B7 /* TestCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A509C632814008300D202B7 /* TestCollectionViewController.swift */; };
 		6A5FEB9C280FDAB1006655B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5FEB9B280FDAB1006655B8 /* AppDelegate.swift */; };
 		6A5FEB9E280FDAB1006655B8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5FEB9D280FDAB1006655B8 /* SceneDelegate.swift */; };
@@ -20,7 +19,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6A4BD15328106C5A00ACE446 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		6A509C632814008300D202B7 /* TestCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCollectionViewController.swift; sourceTree = "<group>"; };
 		6A5FEB98280FDAB1006655B8 /* testAutolayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testAutolayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A5FEB9B280FDAB1006655B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 				6A7ADD7D28145B4F00C827E6 /* Page.swift */,
 				6A5FEBA1280FDAB1006655B8 /* Main.storyboard */,
 				6A7ADD7B281457A000C827E6 /* PageCell.swift */,
-				6A4BD15328106C5A00ACE446 /* CustomTableViewCell.swift */,
 				6A5FEBA4280FDAB2006655B8 /* Assets.xcassets */,
 				6A5FEBA6280FDAB2006655B8 /* LaunchScreen.storyboard */,
 				6A5FEBA9280FDAB2006655B8 /* Info.plist */,
@@ -151,7 +148,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A5FEBA0280FDAB1006655B8 /* ViewController.swift in Sources */,
-				6A4BD15528106C5A00ACE446 /* CustomTableViewCell.swift in Sources */,
 				6A7ADD7C281457A000C827E6 /* PageCell.swift in Sources */,
 				6A5FEB9C280FDAB1006655B8 /* AppDelegate.swift in Sources */,
 				6A7ADD7E28145B4F00C827E6 /* Page.swift in Sources */,
